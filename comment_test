@@ -1,0 +1,2 @@
+comment = "I don't know much about github."
+print(comment)
